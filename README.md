@@ -9,11 +9,11 @@ To get started with this course, simply follow these steps:
 
 1. Clone this Repository: Clone this course repository to your local machine using the following command:
     
-    git clone <repository_url>
+        git clone git@github.com:yefga/meta-be-capstone.git
 
 2. Run the Course: Navigate to the course directory and run the following command to start the course:
 
-    source run.sh
+        source run.sh
 
 This script will set up the necessary environment and provide instructions to access course materials and exercises.
 
